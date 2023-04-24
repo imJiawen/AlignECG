@@ -3,7 +3,7 @@
 Employing differentiable alignment to improve ECG classification.
 
 
-![example](./img/signal_viz.png)
+![example](img/signal_viz.png)
 
 ## Preparation
 
